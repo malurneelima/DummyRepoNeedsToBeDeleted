@@ -6,3 +6,5 @@ This is second line from local
 This is first line from remote
 This is second line from remote
 
+This is first trial for rebase
+
